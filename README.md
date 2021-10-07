@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 Main principles of data- driven algorithms, supervised and unsupervised learning.
 
